@@ -64,10 +64,10 @@ In order to fulfill the testing objectives we are only going to focus on the ***
 
 From the point of view of the testing techniques we are going to use ***dynamic*** testing aspecialy use ***Black-box Testing*** with the following test design techniques:
 
-1. **Use Case Testing**
+  ##### Use Case Testing**
 - This testing technique based on user actions and goals. Focuses on real-world scenarios and user stories. Helps identify gaps in functionality that might not be apparent from other testing methods.
     and
-2. **State Transitioning**
+  ##### State Transitioning
    
 - In that case a software system can exist in various states (logged in, logged out, shopping cart empty, shopping cart full). Clicking "Add to Cart" while logged out should not transition to a "Shopping Cart Full" state. The system might prompt the user to log in first. Clicking "Login" while logged out should transition to the "Logged In" state, allowing access to user account features.
 
