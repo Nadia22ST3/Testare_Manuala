@@ -88,26 +88,29 @@ Also, performance and security testing will not be performed during this session
 From the perspective of the modules covered, any other functionality that is located outside of the login or favorite module are not to be tested.
 
 *_1.1.5 Risks detected*_
-Project risks:
+**Project risks**:
+    There were no project risks throughout the testing. All entry criteria have been correctly assigned.
 
-There were no project risks throughout the testing. All entry criteria have been correctly assigned.
-
-Product risks:
-
-During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
+**Product risks**:
+    During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
 
 *_1.1.6 Evaluating entry criteria*_
-
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 1.2 Test Monitoring and Control
-
 The monitoring and control stage is an essential component of any successful project. Through the effective implementation of this stage, deadlines and budgets were ensured and respected, problems were identified and fixed, good decisions were made in time, which led to increased satisfaction of interested parties and improved processes for future projects.
 
+Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
 
- Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+ 
 1.3 Test Analysis
-The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).
+The testing process will be executed based on the application requirements.
+The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
+
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/3b641302-4c64-4232-a6fd-2499d692e5e7)
+
+
+- inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).
 
 The following test conditions were found:
 
@@ -120,7 +123,7 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 The following elements are needed to be ready before the test execution phase begins:
 
 (inserati lista de elemente care sunt evaluate in etapa de implementare)
-1.6. Test Execution
+***1.6. Test Execution***
 
 Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
 
@@ -130,15 +133,19 @@ The following is a summary of the bugs that have been found (inserati o lista cu
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+***1.7 Test Completion***
+As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
+The traceability matrix was generated and can be found here: 
+
+(![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/d6dcf7c3-7c92-4c4f-b3d7-016bce77e41c)
 
 Test execution chart was generated and can be found below.
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/10249d30-7071-4dfb-897e-f022be1663ed)
 
-The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
+
+The final report shows that a number () tests have failed of a total of (inserati numarul de teste)
 
 A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
 
