@@ -17,9 +17,8 @@ The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/m
 
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/8dd1574f-b290-46bc-b0aa-b7e77c99eacc)
 
-
+## 2. Testing process
 The test process was performed based on the standard test process as described below.
-2. Testing process
 
 **1.1 Test planning**
 
@@ -32,12 +31,12 @@ The test plan that was created for this project can be found [here](https://gith
 
 *_1.1.1. Roles asigned to the project and persons allocated*_
 
-<tabel>
-   <tr><td>Project manager</td><td>Datcu George</tr>
-   <tr><td>Product owner</td><td>Cusnir Dana</tr>
-    Software developer - Stanescu Dan 
-    QA Engineer - Robu Nadia
-
+<table>
+<tr><td>Project manager </td><td>Ion Popescu</td> </tr>
+<tr><td>Product owner</td><td>Cusnir Dana</td></tr>
+<tr><td>Software developer</td><td>Stanescu Dan</td></tr>
+<tr><td>QA Engineer</td><td>Robu Nadia</td></tr>
+</table>
 *_1.1.2 Entry criteria defined*_:
 
 1. Testing environment is up and running.
