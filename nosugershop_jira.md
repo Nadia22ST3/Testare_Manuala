@@ -15,7 +15,8 @@ The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/m
 
 **Here you can find the release that was created for this project**:
 
-(![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/067c1749-1b0f-4449-9c12-b90ae4e96c72)
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/8dd1574f-b290-46bc-b0aa-b7e77c99eacc)
+
 
 The test process was performed based on the standard test process as described below.
 
@@ -25,7 +26,7 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
-The test plan that was created for this project can be found [here] (https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Plan%20de%20Testare%20.docx) 
+The test plan that was created for this project can be found [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Plan%20de%20Testare%20.docx) 
 
 
 *_1.1.1. Roles asigned to the project and persons allocated*_
