@@ -113,7 +113,7 @@ The requirements analysis has been done in order to implement the early testing 
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here  
 
-
+https://bentoteam-my.sharepoint.com/:b:/g/personal/nadia_robu_bento_ro/EWv1U3Gvlr5IlYhwB77QirEBlVQjLGSp-QRG2FEGzbSagg?e=ak5VJH
 
 1.5 Test Implementation
 
