@@ -108,9 +108,11 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 The following elements are needed to be ready before the test execution phase begins:
 
 (inserati lista de elemente care sunt evaluate in etapa de implementare)
-***1.6. Test Execution***
 
-Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
+### 1.6. Test Execution***
+
+Test cases are executed on the created test Cycle summary:![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/6dfa36c4-8e10-4326-b972-3fc89cf4f9da)
+
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
 
@@ -118,7 +120,7 @@ The following is a summary of the bugs that have been found (inserati o lista cu
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-***1.7 Test Completion***
+### 1.7 Test Completion***
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: 
