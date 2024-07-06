@@ -2,16 +2,15 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: ***NosugerShop.ro***
+**Application under test**: ***NosugerShop.ro***
 
-Tools used: Jira, Zephyr Squad.
+**Tools used**: Jira, Zephyr Squad.
 ## 1. Functional specifications:
 
 The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/jira_story.docx) were created in Jira and describes the functional specifications of the "**_Favorite_**" module, for which the final project is performed upon.
 
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/c7347f6c-bd50-4571-95c4-5318e2892f4d)
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/7dab7167-57c9-41e8-954c-81f429f8b3b6)
-
 
 **Here you can find the release that was created for this project**:
 
@@ -28,16 +27,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 The test plan that was created for this project can be found [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Plan%20de%20Testare%20.docx) 
 
-
-*_1.1.1. Roles asigned to the project and persons allocated*_
-
+#### 1.1.1. Roles asigned to the project and persons allocated
 <table>
 <tr><td>Project manager </td><td>Ion Popescu</td> </tr>
 <tr><td>Product owner</td><td>Cusnir Dana</td></tr>
 <tr><td>Software developer</td><td>Stanescu Dan</td></tr>
 <tr><td>QA Engineer</td><td>Robu Nadia</td></tr>
 </table>
-*_1.1.2 Entry criteria defined*_:
+
+#### 1.1.2 Entry criteria defined
 
 1. Testing environment is up and running.
 2. Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation.
@@ -46,8 +44,8 @@ The test plan that was created for this project can be found [here](https://gith
 5. Roles and responsibilities are allocated.
 6. The entry criteria and exit criteria must be defined.
 7. Test plan should be finalized before entering the next phase of testing
-
-*_1.1.3 Exit criteria defined*_:
+   
+#### 1.1.3 Exit criteria defined
 
 1. 90%  or more of the tests are passed
 2. No critical issues have status open
@@ -59,11 +57,12 @@ The test plan that was created for this project can be found [here](https://gith
 8. Test completion report has been created and sent to the stakeholders
 9. Product risks have been identified and mitigated
 
-*_1.1.4 Test scope*_
+#### 1.1.4 Test scope
 
 In order to fulfill the testing objectives we are only going to focus on the ***Favorite*** Module which has been placed in the scope of testing and has been targeted for improvement over the next two months.
 
-From the point of view of the testing techniques we are going to use ***dynamic*** testing aspecialy use ***Blackbox Testing*** with the following test design techniques:
+From the point of view of the testing techniques we are going to use ***dynamic*** testing aspecialy use ***Black-box Testing*** with the following test design techniques:
+
 1. **Use Case Testing**
 - This testing technique based on user actions and goals. Focuses on real-world scenarios and user stories. Helps identify gaps in functionality that might not be apparent from other testing methods.
     and
@@ -76,13 +75,7 @@ It`s a software testing technique that involves examining documents by a group o
 
 From a testing type perspective we are going to use ***non-functional testing*** where we are going to cover only **usability testing** and **compatibility testing**. Also, positive testing and negative testing are to be done, and (according to the needs) retesting and regression testing will be done when defects are going to be fixed or when modifications of any type are going to be brought to the code.
 
-Tests not in scope:
-
-We are not going to cover during the testing process any techniques related to **whitebox testing**.
-
-Also, performance and security testing will not be performed during this session of testing.
-
-From the perspective of the modules covered, any other functionality that is located outside of the login or favorite module are not to be tested.
+Tests not in scope: We are not going to cover during the testing process any techniques related to **white-box testing**. Also, performance and security testing will not be performed during this session of testing.From the perspective of the modules covered, any other functionality that is located outside of the login or favorite module are not to be tested.
 
 *_1.1.5 Risks detected*_
 
