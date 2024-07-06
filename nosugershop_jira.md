@@ -64,12 +64,13 @@ In order to fulfill the testing objectives we are only going to focus on the ***
 
 From the point of view of the testing techniques we are going to use ***dynamic*** testing aspecialy use ***Black-box Testing*** with the following test design techniques:
 
-  ##### Use Case Testing**
-- This testing technique based on user actions and goals. Focuses on real-world scenarios and user stories. Helps identify gaps in functionality that might not be apparent from other testing methods.
-    and
+  ##### Use Case Testing
+  
+> This testing technique based on user actions and goals. Focuses on real-world scenarios and user stories. Helps identify gaps in functionality that might not be apparent from other testing methods.
+
   ##### State Transitioning
    
-- In that case a software system can exist in various states (logged in, logged out, shopping cart empty, shopping cart full). Clicking "Add to Cart" while logged out should not transition to a "Shopping Cart Full" state. The system might prompt the user to log in first. Clicking "Login" while logged out should transition to the "Logged In" state, allowing access to user account features.
+> In that case a software system can exist in various states (logged in, logged out, shopping cart empty, shopping cart full). Clicking "Add to Cart" while logged out should not transition to a "Shopping Cart Full" state. The system might prompt the user to log in first. Clicking "Login" while logged out should transition to the "Logged In" state, allowing access to user account features.
 
 Also, we are going to use ***static*** testing techniques aspecialy ***Review***
 It`s a software testing technique that involves examining documents by a group of individuals to identify defects and improve overall test quality.
@@ -80,9 +81,9 @@ Tests not in scope: We are not going to cover during the testing process any tec
 
 #### 1.1.5 Risks detected
 
-**Project risks**: There were no project risks throughout the testing. All entry criteria have been correctly assigned.
-
-**Product risks**: During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
+> **Project risks**: There were no project risks throughout the testing. All entry criteria have been correctly assigned.
+>
+>**Product risks**: During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
 
 #### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
