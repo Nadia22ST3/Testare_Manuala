@@ -135,7 +135,7 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 0 tests have failed of a total of (10)
 
-Conclusion of Favorites Module Testing
+# Conclusion of Favorites Module Testing
 
 Based on the test cases described above, I can draw the following conclusions about the Favorites module:
 
@@ -165,7 +165,7 @@ Based on the test cases described above, I can draw the following conclusions ab
 
 ***Recommendations***:
 
->> Additional testing may be helpful in the following areas:
+> Additional testing may be helpful in the following areas:
 
         Performance testing with a large number of products in the favorites list.
         
@@ -173,7 +173,7 @@ Based on the test cases described above, I can draw the following conclusions ab
         
         Testing error and exception scenarios.
 
->> Implementing additional functionality could improve the Favorites module:
+> Implementing additional functionality could improve the Favorites module:
 
         Allowing users to organize products into categories or lists.
         
