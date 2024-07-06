@@ -5,7 +5,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test: ***NosugerShop.ro***
 
 Tools used: Jira, Zephyr Squad.
-## Functional specifications:
+## 1. Functional specifications:
 
 The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/jira_story.docx) were created in Jira and describes the functional specifications of the "**_Favorite_**" module, for which the final project is performed upon.
 
@@ -19,6 +19,7 @@ The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/m
 
 
 The test process was performed based on the standard test process as described below.
+2. Testing process
 
 **1.1 Test planning**
 
