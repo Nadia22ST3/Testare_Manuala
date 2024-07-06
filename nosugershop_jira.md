@@ -88,36 +88,33 @@ Also, performance and security testing will not be performed during this session
 From the perspective of the modules covered, any other functionality that is located outside of the login or favorite module are not to be tested.
 
 *_1.1.5 Risks detected*_
-**Project risks**:
-    There were no project risks throughout the testing. All entry criteria have been correctly assigned.
 
-**Product risks**:
-    During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
+**Project risks**: There were no project risks throughout the testing. All entry criteria have been correctly assigned.
+
+**Product risks**: During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
 
 *_1.1.6 Evaluating entry criteria*_
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-1.2 Test Monitoring and Control
+**1.2 Test Monitoring and Control**
 The monitoring and control stage is an essential component of any successful project. Through the effective implementation of this stage, deadlines and budgets were ensured and respected, problems were identified and fixed, good decisions were made in time, which led to increased satisfaction of interested parties and improved processes for future projects.
 
 Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
 
  
-1.3 Test Analysis
+**1.3 Test Analysis**
 The testing process will be executed based on the application requirements.
 The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
 
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/3b641302-4c64-4232-a6fd-2499d692e5e7)
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/36ab2b9f-2d1b-48b0-8651-9cbddf8eb8ed)
 
-
-- inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).
-
-The following test conditions were found:
-
-(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)
 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here  
+
+
+
 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
