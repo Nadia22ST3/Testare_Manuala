@@ -34,8 +34,8 @@ The test plan that was created for this project can be found here
 *_1.1.1. Roles asigned to the project and persons allocated*_
 
 <tabel>
-   <tr><td>Project manager</td><td>- Datcu George</tr>
-   <tr><td> Product owner</td><td>- Cusnir Dana</tr>
+   <tr><td>Project manager</td><td>Datcu George</tr>
+   <tr><td>Product owner</td><td>Cusnir Dana</tr>
     Software developer - Stanescu Dan 
     QA Engineer - Robu Nadia
 
