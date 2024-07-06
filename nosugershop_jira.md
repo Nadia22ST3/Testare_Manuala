@@ -49,13 +49,13 @@ The test plan that was created for this project can be found [here](https://gith
 
 1. 90%  or more of the tests are passed
 2. No critical issues have status open
-3. All detected errors have been reported and closed
-4. The budget was reached
-5. The deadline was reached
-6. The objectives were fulfilled
-7. The product usage documentation has been finalized with the scenarios evaluated during the testing phase
-8. Test completion report has been created and sent to the stakeholders
-9. Product risks have been identified and mitigated
+3. Not finding bugs of major severity in a specific period of time
+4. The deadline was reached
+5. The objectives were fulfilled
+6. The product usage documentation has been finalized with the scenarios evaluated during the testing phase
+7. Test completion report has been created and sent to the stakeholders
+8. The deadline has been reached
+
 
 #### 1.1.4 Test scope
 
@@ -92,7 +92,10 @@ The monitoring and control stage is an essential component of any successful pro
 
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/c0a9966d-f70c-4f1a-ae55-626a9d3225fb)
 
-test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+test metrics 
+
+![test matrics](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/f77cc148-95e3-45c4-8331-12121033bfbb)
+
  
 ### 1.3 Test Analysis**
 The testing process will be executed based on the application requirements.
@@ -115,11 +118,8 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary:![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/6dfa36c4-8e10-4326-b972-3fc89cf4f9da)
 
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
 
-Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
-
-### 1.7 Test Completion***
+### 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: 
