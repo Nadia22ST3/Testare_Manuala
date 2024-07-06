@@ -21,7 +21,7 @@ The test process was performed based on the standard test process as described b
 
 **1.1 Test planning**
 
-The Test Plan is designed to describe all details of testing for all the modules from the ***NoSugerShop*** application.
+The Test Plan is designed to describe all details of testing for add favorite module from the ***NoSugerShop*** e commercial application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
@@ -77,16 +77,17 @@ From a testing type perspective we are going to use ***non-functional testing***
 
 Tests not in scope: We are not going to cover during the testing process any techniques related to **white-box testing**. Also, performance and security testing will not be performed during this session of testing.From the perspective of the modules covered, any other functionality that is located outside of the login or favorite module are not to be tested.
 
-*_1.1.5 Risks detected*_
+#### 1.1.5 Risks detected
 
 **Project risks**: There were no project risks throughout the testing. All entry criteria have been correctly assigned.
 
 **Product risks**: During the entire process of testing the favorites/card mode, which integrates with the login/registration mode, I did not observe any major defects. A defect can be considered that when you try to put a larger quantity of pieces in the basket, the system does not allow you, it does not inform you what quantity is in stock, it gives you an error message like Limited stock - unavailable in the requested quantity. But this aspect was not included in the requirements of the user manual of the application
 
-*_1.1.6 Evaluating entry criteria*_
+#### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-**1.2 Test Monitoring and Control**
+
+### 1.2 Test Monitoring and Control
 The monitoring and control stage is an essential component of any successful project. Through the effective implementation of this stage, deadlines and budgets were ensured and respected, problems were identified and fixed, good decisions were made in time, which led to increased satisfaction of interested parties and improved processes for future projects.
 
 Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
