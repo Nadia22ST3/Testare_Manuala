@@ -7,7 +7,7 @@ Application under test: ***NosugerShop.ro***
 Tools used: Jira, Zephyr Squad.
 ## Functional specifications:
 
-The below stories were created in Jira and describes the functional specifications of the "**_Favorite_**" module, for which the final project is performed upon.
+The stories attached [here]() were created in Jira and describes the functional specifications of the "**_Favorite_**" module, for which the final project is performed upon.
 
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/c7347f6c-bd50-4571-95c4-5318e2892f4d)
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/7dab7167-57c9-41e8-954c-81f429f8b3b6)
