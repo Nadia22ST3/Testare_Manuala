@@ -100,7 +100,8 @@ test metrics
 The testing process will be executed based on the application requirements.
 The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/36ab2b9f-2d1b-48b0-8651-9cbddf8eb8ed)
+![issues final](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/12d52159-8576-41c6-916f-b4b15ffec15d)
+
 
 ### 1.4 Test Design
 
