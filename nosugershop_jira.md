@@ -126,12 +126,11 @@ The traceability matrix was generated and can be found here:
 
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/39f19e98-fd17-4c62-ac37-3dd13eb5fcb9)
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/02487d4a-07b6-460f-bac6-76ba866da2bb)
-
 
 Test execution chart was generated and can be found below.
 
-![execution report](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/f2ff34e3-90ec-46c9-8479-51dfa94dcb9f)
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/1d1d8cde-681a-4797-a74c-11b3bc478cbe)
+
 
 The final report shows that a number 0 tests have failed of a total of (10)
 
