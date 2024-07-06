@@ -97,14 +97,13 @@ Aici veti insera de asemenea si raportul de status (test status report) din zeph
 The testing process will be executed based on the application requirements.
 The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/3b641302-4c64-4232-a6fd-2499d692e5e7)
 ![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/36ab2b9f-2d1b-48b0-8651-9cbddf8eb8ed)
 
-1.4 Test Design
+### 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here  
 
-https://bentoteam-my.sharepoint.com/:b:/g/personal/nadia_robu_bento_ro/EWv1U3Gvlr5IlYhwB77QirEBlVQjLGSp-QRG2FEGzbSagg?e=ak5VJH
+
 
 1.5 Test Implementation
 
