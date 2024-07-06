@@ -97,7 +97,7 @@ test metrics
 ![test matrics](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/f77cc148-95e3-45c4-8331-12121033bfbb)
 
  
-### 1.3 Test Analysis**
+### 1.3 Test Analysis
 The testing process will be executed based on the application requirements.
 The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
 
@@ -118,21 +118,18 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary:![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/6dfa36c4-8e10-4326-b972-3fc89cf4f9da)
 
-
 ### 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: 
 
-(![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/d6dcf7c3-7c92-4c4f-b3d7-016bce77e41c)
+![traceabiliti matrix](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/e25bdb34-18e0-4c69-9de3-0c0a0a55e284)
 
 Test execution chart was generated and can be found below.
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/10249d30-7071-4dfb-897e-f022be1663ed)
+![execution report](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/f2ff34e3-90ec-46c9-8479-51dfa94dcb9f)
+
+The final report shows that a number 0 tests have failed of a total of (10)
 
 
-The final report shows that a number () tests have failed of a total of (inserati numarul de teste)
 
-A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
-
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
