@@ -90,7 +90,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ### 1.2 Test Monitoring and Control
 The monitoring and control stage is an essential component of any successful project. Through the effective implementation of this stage, deadlines and budgets were ensured and respected, problems were identified and fixed, good decisions were made in time, which led to increased satisfaction of interested parties and improved processes for future projects.
 
-Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/c0a9966d-f70c-4f1a-ae55-626a9d3225fb)
+
+test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
  
 ### 1.3 Test Analysis**
 The testing process will be executed based on the application requirements.
@@ -109,12 +111,9 @@ The following elements are needed to be ready before the test execution phase be
 
 (inserati lista de elemente care sunt evaluate in etapa de implementare)
 
-### 1.6. Test Execution***
+### 1.6. Test Execution
 
 Test cases are executed on the created test Cycle summary:![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/6dfa36c4-8e10-4326-b972-3fc89cf4f9da)
-
-
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
 
 The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
 
