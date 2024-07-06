@@ -1,25 +1,28 @@
-Testing Project for **Inserati aici numele aplicatiei pe care o testati**
+# Testing Project for **NoSugerShop**
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: Inserati aici numele aplicatiei pe care o testati
+Application under test: ***NosugerShop.ro***
 
 Tools used: Jira, Zephyr Squad.
-Functional specifications:
+## Functional specifications:
 
-The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
+The below stories were created in Jira and describes the functional specifications of the "**_favorite_**" module, for which the final project is performed upon.
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/c7347f6c-bd50-4571-95c4-5318e2892f4d)
+![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/7dab7167-57c9-41e8-954c-81f429f8b3b6)
 
-Here you can find the release that was created for this project:
 
-(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
-Testing process
+**Here you can find the release that was created for this project**:
+
+(![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/067c1749-1b0f-4449-9c12-b90ae4e96c72)
+
 
 The test process was performed based on the standard test process as described below.
+
 1.1 Test planning
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for all the modules from the ***NoSugerShop*** application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
 1.1.1. Roles asigned to the project and persons allocated
