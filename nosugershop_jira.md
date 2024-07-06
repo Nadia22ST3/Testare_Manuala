@@ -14,7 +14,8 @@ The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/m
 
 **Here you can find the release that was created for this project**:
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/8dd1574f-b290-46bc-b0aa-b7e77c99eacc)
+![Release](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/da235a12-fb3a-4bd0-8252-f1c25cca1a03)
+
 
 ## 2. Testing process
 The test process was performed based on the standard test process as described below.
