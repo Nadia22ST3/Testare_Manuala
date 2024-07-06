@@ -93,7 +93,7 @@ The monitoring and control stage is an essential component of any successful pro
 
 test metrics 
 
-![test matrics](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/f77cc148-95e3-45c4-8331-12121033bfbb)
+![test matrics final](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/be938512-8b5a-4c31-b4d6-d2db519d2cea)
 
  
 ### 1.3 Test Analysis
