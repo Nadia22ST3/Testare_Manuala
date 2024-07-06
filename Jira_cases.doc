@@ -1,0 +1,4656 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://itfclasses.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-24]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-24">Confirm that clicking &quot;Remove&quot; successfully removes the selected product from the Favorites list.</a>
+            <span class="subText">
+               Created: 05/Jun/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18544-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Pre-Conditions:<br/>
+1.	The user has successfully logged in to the e-commerce app (if required).<br/>
+2.	The user has at least one product added to their Favorites list.<br/>
+Test Steps:<br/>
+1.	Navigate to the Favorites list. <br/>
+2.	Identify a product you want to remove.<br/>
+3.	Locate the "Remove" button or icon associated with the chosen product. <br/>
+4.	Click the "Remove" button.<br/>
+5.	Expected Result: The product should disappear from the Favorites list immediately, or after a short confirmation animation.<br/>
+6.	Alternate Expected Result (Optional): A confirmation message might appear asking the user to confirm the removal (e.g., "Are you sure you want to remove this product?"). Click "Yes" or the appropriate confirmation option if presented.<br/>
+7.	Verify the product's absence. Scroll through the remaining list or use search functionality to confirm the removed product is no longer present.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-23]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-23">Adding a selected product from Favorites list in to cart.</a>
+            <span class="subText">
+               Created: 05/Jun/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18543-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Pre-Conditions:<br/>
+1.	The user has an account and is logged in to the e-commerce app. (If applicable)<br/>
+2.	The user has at least one product added to their Favorites list.<br/>
+Test Steps:<br/>
+1.	Navigate to the Favorites List:<br/>
+2.	Verify Favorites List Content:<br/>
+3.	Select a specific product from the Favorites list you want to add to the cart.<br/>
+4.	Initiate Adding to Cart:<br/>
+o	Look for an "Add to Cart" button or similar functionality associated with the chosen product.<br/>
+5.	Confirmation and Cart Access:<br/>
+o	Verify that clicking "Add to Cart" triggers a confirmation message or visual cue indicating successful addition.<br/>
+o	Access the shopping cart section of the app (usually through a dedicated icon or menu option).<br/>
+6.	Cart Verification. Confirm that the selected product from the Favorites list is now present in the shopping cart with all information (name, image, quantity, price) </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-22]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-22">Verify that a Remove option from Favorites icon is present for each product in the list.</a>
+            <span class="subText">
+               Created: 30/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18323-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Pre-Conditions:</b></p>
+
+<ul>
+	<li>The user has a registered account and is logged in to the e-commerce app.</li>
+	<li>The user has previously added at least one product to their Favorites list.</li>
+</ul>
+
+
+<p><b>Expected Results:</b></p>
+
+<ul>
+	<li>The user successfully accesses their Favorites list.
+	<ul>
+		<li>The Favorites list displays all previously added</li>
+		<li>A "Remove from Favorites" icon or button is present for each individual product displayed in the list.</li>
+		<li>The icon has a clear and intuitive design that signifies removal functionality.</li>
+		<li>The icon is positioned consistently and easily accessible for each product.</li>
+	</ul>
+	</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-20]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-20">Verify that the Favorites list displays all previously added products with basic information like name, image, and price.</a>
+            <span class="subText">
+               Created: 30/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18303-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Pre-Conditions:<br/>
+•	The user has a registered account and is logged in to the application <br/>
+•	The user has previously added at least one product to their Favorites list.<br/>
+Test Steps:<br/>
+1.	Access the Favorites List:<br/>
+o	Navigate to Favorites list. <br/>
+2.	Verify List Content:<br/>
+o	Verify if the list displays all products previously added by the user.<br/>
+o	Verify that the basic information is displayed for each product in the list:<br/>
+	Product Name: The full name or title of the product.<br/>
+	Product Image: A clear and recognizable image of the product.<br/>
+	Price: The current price of the product and the price reduction applied for the displayed product. <br/>
+3.	Validate Data Accuracy:<br/>
+o	For a randomly selected product from the list, compare the displayed information (name, image, price) with the actual product details on their respective product pages. Ensure the information matches..<br/>
+Expected Result:<br/>
+•	The Favorites list displays all previously added products.<br/>
+•	Each product entry displays the correct name, image, and price and the price reduction applied for the displayed product.<br/>
+•	The displayed information accurately reflects the actual product details.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-19]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-19">Verify that the user can access their Favorites list through a dedicated menu option or button.</a>
+            <span class="subText">
+               Created: 27/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18242-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Pre-Conditions:<br/>
+•	The user has a registered account and is logged in to the e-commerce app.<br/>
+•	There may be existing products added to the Favorites list <br/>
+Expected results: <br/>
+The user should be successfully directed to the Favorites list screen. This screen should display a list of all their previously added favorite products, or an empty list if no products have been added yet.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-18]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-18">Test adding multiple products to the Favorites list.</a>
+            <span class="subText">
+               Created: 27/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18241-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>o	Click the "Add to Favorites" button on the product detail page.<br/>
+o	Verify that successfully added to favorites list and "heart" image turns gray once the product is added and the number of products in it appears in the favorites.<br/>
+o	Navigate to the Favorites list and verify that the added product is displayed with details like name, image, and price. <br/>
+Pre-Conditions:<br/>
+•	Launch the e-commerce app.<br/>
+•	Ensure you are logged in to your user account (if applicable).<br/>
+•	Browse the product catalog and identify at least two different products you want to add.<br/>
+Expected Result:<br/>
+•	Both products should be displayed in your Favorites list with their basic information.<br/>
+•	No duplicate entries should be present for the same product.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-17]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-17">Test adding a product to the Favorites list when the user is not logged in </a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18176-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>o	Click the "Add to Favorites" button on the product detail page.<br/>
+o	Verify that the product is added to a temporary Favorites list or a confirmation message appears indicating the need to log in to save the list permanently.</p>
+
+<p>Pre-Conditions:<br/>
+•	The user is not logged in to the e-commerce app.<br/>
+•	A product detail page with an "Add to Favorites" button is accessible.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-16]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-16">Test adding a product to the Favorites list when the user is logged in:</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18175-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>o	Click the "Add to Favorites" button on the product detail page.<br/>
+o	Verify that successfully added to favorites list and "heart" image turns gray once the product is added and the number of products in it appears in the favorites.<br/>
+o	Navigate to the Favorites list and verify that the added product is displayed with details like name, image, and price. <br/>
+Pre-Conditions:<br/>
+•	Verify that the user is logged with valid login credentials for the e-commerce app.<br/>
+•	Verify that the user is logged out of the app.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-15]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-15">Verify that the &quot;Add to Favorites&quot; button or icon is present on the product detail page</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18174-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-14]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-14">Adding a selected product from Favorites list in to cart.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18173-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Expected Results:</b></p>
+
+<ul>
+	<li>The user should be able to navigate to their Favorites list without difficulty.</li>
+	<li>The Favorites list should display all previously added products.</li>
+	<li>Selecting a product and clicking "Add to Cart" should successfully add the product to the shopping cart.</li>
+	<li>A confirmation message or visual cue should indicate successful addition.</li>
+	<li>The chosen product should appear in the shopping cart with accurate information.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-13]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-13">Confirm that clicking &quot;Remove&quot; successfully removes the selected product from the Favorites list.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18172-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Pre-Conditions:</b></p>
+
+<ol>
+	<li>The user has successfully logged in to the e-commerce app (if required).</li>
+	<li>The user has at least one product added to their Favorites list.</li>
+</ol>
+
+
+<p><b>Test Steps:</b></p>
+
+<ol>
+	<li><b>Navigate to the Favorites list.</b></li>
+	<li><b>Identify a product you want to remove.</b></li>
+	<li><b>Locate the "Remove" button or icon associated with the chosen product.</b></li>
+	<li><b>Click the "Remove" button.</b></li>
+	<li><b>Expected Result:</b> The product should disappear from the Favorites list immediately, or after a short confirmation animation.</li>
+	<li><b>Alternate Expected Result (Optional):</b> A confirmation message might appear asking the user to confirm the removal (e.g., "Are you sure you want to remove this product?"). Click "Yes" or the appropriate confirmation option if presented.</li>
+	<li><b>Verify the product's absence.</b> Scroll through the remaining list or use search functionality to confirm the removed product is no longer present.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-12]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-12">Verify that a Remove from Favorites icon is present for each product in the list.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18171-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Expected Results:</b></p>
+
+<ul>
+	<li>The user successfully accesses their Favorites list.</li>
+	<li>The Favorites list displays all previously added</li>
+	<li>A "Remove from Favorites" icon or button is present for each individual product displayed in the list.</li>
+	<li>The icon has a clear and intuitive design that signifies removal functionality.</li>
+	<li>The icon is positioned consistently and easily accessible for each product.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-11]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-11">Verify that the Favorites list displays all previously added products with basic information like name, image, and price.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18170-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Expected Result:</b></p>
+
+<ul>
+	<li>The Favorites list displays all previously added products.</li>
+	<li>Each product entry displays the correct name, image, and price and the price reduction applied for the displayed product.</li>
+	<li>The displayed information accurately reflects the actual product details.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-10]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-10">Verify that the user can access their Favorites list through a dedicated menu option or button.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18169-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-9">
+                     <strike>ST3NR-9</strike>                 </a>
+            </td>
+            <td>
+                As a user, I want to be able to manag...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the user can access their Favorites list through a dedicated menu option or button.</p>
+
+<p><b>Pre-Conditions:</b></p>
+
+<ul>
+	<li>The user has a registered account and is logged in to the e-commerce app.</li>
+	<li>There may be existing products added to the Favorites list</li>
+</ul>
+
+
+<p><b>Test Steps:</b></p>
+
+<ol>
+	<li><b>Launch the e-commerce app.</b></li>
+	<li><b>Navigate to the main screen or dashboard.</b></li>
+	<li><b>Identify the expected location for the Favorites list access point.</b> This could be:
+	<ul>
+		<li>A dedicated "Favorites" menu option within the navigation bar.</li>
+		<li>A heart icon or similar symbol in the user profile section (if applicable).</li>
+		<li>A separate "Favorites" tab on the main screen (depending on the app design).</li>
+	</ul>
+	</li>
+	<li><b>Depending on the identified location:</b>
+	<ul>
+		<li>If it's a menu option: Click on the "Favorites" menu option or similar text label.</li>
+		<li>If it's an icon: Tap on the heart icon or similar symbol.</li>
+		<li>If it's a tab: Navigate to the "Favorites" tab on the main screen.</li>
+		<li> </li>
+	</ul>
+	</li>
+</ol>
+
+
+<p><b>Expected results:</b></p>
+
+<p>The user should be successfully directed to the Favorites list screen. This screen should display a list of all their previously added favorite products, or an empty list if no products have been added yet.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-9]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-9">As a user, I want to be able to manage my Favorites list so that I can keep it organized and up-to-date. </a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18168-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-13">
+                     <strike>ST3NR-13</strike>                 </a>
+            </td>
+            <td>
+                Confirm that clicking &quot;Remove&quot; succes...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-19">
+                     <strike>ST3NR-19</strike>                 </a>
+            </td>
+            <td>
+                Verify that the user can access their...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-20">
+                     <strike>ST3NR-20</strike>                 </a>
+            </td>
+            <td>
+                Verify that the Favorites list displa...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-22">
+                     <strike>ST3NR-22</strike>                 </a>
+            </td>
+            <td>
+                Verify that a Remove option from Favo...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-23">
+                     <strike>ST3NR-23</strike>                 </a>
+            </td>
+            <td>
+                Adding a selected product from Favori...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-24">
+                     <strike>ST3NR-24</strike>                 </a>
+            </td>
+            <td>
+                Confirm that clicking &quot;Remove&quot; succes...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-10">
+                     <strike>ST3NR-10</strike>                 </a>
+            </td>
+            <td>
+                Verify that the user can access their...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-11">
+                     <strike>ST3NR-11</strike>                 </a>
+            </td>
+            <td>
+                Verify that the Favorites list displa...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-12">
+                     <strike>ST3NR-12</strike>                 </a>
+            </td>
+            <td>
+                Verify that a Remove from Favorites i...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-14">
+                     <strike>ST3NR-14</strike>                 </a>
+            </td>
+            <td>
+                Adding a selected product from Favori...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-1">
+                     ST3NR-1                 </a>
+            </td>
+            <td>
+                Add Favorites list - This module woul...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Test conditions:</b></p>
+
+<ul>
+	<li>The user should be able to view their Favorites list.</li>
+	<li>The user should be able to remove a product from the Favorites list.</li>
+	<li>The user should be able to see details of each product in the Favorites list (e.g., product name, image, price).</li>
+	<li>The user should be able to see a confirmation message or visual cue indicating successful removal.</li>
+	<li>The removed product should no longer be displayed in the Favorites list.</li>
+	<li>The user should be able to add removed in cart a favorite products.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-8]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-8">Test adding multiple products to the Favorites list.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18167-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Click the "Add to Favorites" button on the product detail page.</li>
+	<li>Verify that successfully added to favorites list and "heart" image turns gray once the product is added and the number of products in it appears in the favorites.</li>
+	<li>Navigate to the Favorites list and verify that the added product is displayed with details like name, image, and price.</li>
+</ol>
+
+
+<p><b>Expected Result:</b></p>
+
+<ul>
+	<li>Both products should be displayed in your Favorites list with their basic information.</li>
+	<li>No duplicate entries should be present for the same product.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-7]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-7">Test adding a product to the Favorites list when the user is not logged in </a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18166-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ul>
+	<li>Click the "Add to Favorites" button on the product detail page.</li>
+	<li>Verify that the product is added to a temporary Favorites list or a confirmation message appears indicating the need to log in to save the list permanently.</li>
+</ul>
+
+
+<p><b>Pre-Conditions:</b></p>
+
+<ul>
+	<li>The user is not logged in to the e-commerce app.</li>
+	<li>A product detail page with an "Add to Favorites" button is accessible.</li>
+</ul>
+
+
+<p><b>Test Steps:</b></p>
+
+<ol>
+	<li>Navigate to a product detail page for any product in the e-commerce app.</li>
+	<li>Verify the presence of an "Add to Favorites" icon on the product detail page.</li>
+	<li>Click on the "Add to Favorites" button.</li>
+</ol>
+
+
+<p>Expected Result:</p>
+
+<p>·  A confirmation message appears indicating successful addition to the Favorites list (even if not accessible).</p>
+
+<p>·  A visual cue appears (e.g., highlighted button, icon change) to indicate successful addition.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-6]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-6">Test adding a product to the Favorites list when the user is logged in</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18165-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Click the "Add to Favorites" button on the product detail page.</li>
+	<li>Verify that successfully added to favorites list and "heart" image turns gray once the product is added and the number of products in it appears in the favorites.</li>
+	<li>Navigate to the Favorites list and verify that the added product is displayed with details like name, image, and price.</li>
+</ol>
+
+
+
+
+<p><b>Pre-Conditions:</b></p>
+
+<ol>
+	<li>Verify that the user is logged with valid login credentials for the e-commerce app.</li>
+	<li>Verify that the user is logged out of the app.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-3]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-3">Verify that the &quot;Add to Favorites&quot; button or icon is present on the product detail page.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18083-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://itfclasses.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG File">
+                    Capture.JPG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-2">
+                     <strike>ST3NR-2</strike>                 </a>
+            </td>
+            <td>
+                 As a user, I want to be able to add ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ul>
+	<li><b>Pre-Conditions:</b>
+	<ul>
+		<li>Launch the e-commerce application.</li>
+		<li>Browse or search for a specific product.</li>
+	</ul>
+	</li>
+	<li><b>Test Steps:</b>
+	<ol>
+		<li>Navigate to the product detail page for the chosen product.</li>
+		<li>Visually inspect the product detail page for the presence of an "Add to Favorites" button or icon.</li>
+		<li>Verify that the button/icon is clearly labeled or visually identifiable</li>
+	</ol>
+	</li>
+	<li><b>Expected Results:</b>
+	<ul>
+		<li>An "Add to Favorites" icon should be clearly visible on the product detail page.</li>
+		<li>The icon should be positioned near the product image or description.</li>
+	</ul>
+	</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-2]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-2"> As a user, I want to be able to add products to my Favorites list so that I can easily find them later and consider purchasing them.</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
+
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-18082-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-16">
+                     <strike>ST3NR-16</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-17">
+                     <strike>ST3NR-17</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-18">
+                     <strike>ST3NR-18</strike>                 </a>
+            </td>
+            <td>
+                Test adding multiple products to the ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-3">
+                     <strike>ST3NR-3</strike>                 </a>
+            </td>
+            <td>
+                Verify that the &quot;Add to Favorites&quot; bu...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-6">
+                     <strike>ST3NR-6</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-7">
+                     <strike>ST3NR-7</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-8">
+                     <strike>ST3NR-8</strike>                 </a>
+            </td>
+            <td>
+                Test adding multiple products to the ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-15">
+                     <strike>ST3NR-15</strike>                 </a>
+            </td>
+            <td>
+                Verify that the &quot;Add to Favorites&quot; bu...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-1">
+                     ST3NR-1                 </a>
+            </td>
+            <td>
+                Add Favorites list - This module woul...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Test conditions:</b></p>
+
+<ul>
+	<li>The user should be able to see an "Add to Favorites" button or icon on the product detail page.</li>
+	<li>Clicking the "Add to Favorites" button should add the product to the user's Favorites list.</li>
+	<li>The user should be able to see a confirmation message or visual cue indicating successful addition.</li>
+	<li>The added product should be displayed in the user's Favorites list.</li>
+	<li>The user should be able to add multiple products to the Favorites list.</li>
+	<li>Duplicate entries of the same product should not be added to the Favorites list.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sat Jul 06 11:49:13 UTC 2024 by IT Factory using Jira 1001.0.0-SNAPSHOT#100258-rev:73ae1ffda2c50e536f767c2972653c1a57206810.
+
+</body>
+</html>
