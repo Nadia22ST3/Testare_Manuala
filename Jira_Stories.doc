@@ -77,22 +77,25 @@ hr.fullcontent
 <table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
-                            <h3 class="formtitle">
-                        [OK-14]&nbsp;<a href="https://itfclasses.atlassian.net/browse/OK-14">Sign in functionality </a>
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-9]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-9">As a user, I want to be able to manage my Favorites list so that I can keep it organized and up-to-date. </a>
             <span class="subText">
-               Created: 23/Sep/23                   &nbsp;Updated: 23/Sep/23
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
 
-                                            </span>
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Backlog</td>
+        <td width="80%">Done</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
-        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10150">Karola_Opensky</a></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
     </tr>
 
         <tr>
@@ -114,12 +117,14 @@ hr.fullcontent
         <tr>
             <td><b>Fix versions:</b></td>
             <td>
-                                        <a title="1"
-                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10150%20AND%20%22fixVersion%22%3D10068%20ORDER%20BY%20priority%20ASC"
-            >1</a>                        </td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
     </tr>
     
     
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
     </table>
 
 <br />
@@ -167,7 +172,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -182,7 +187,7 @@ hr.fullcontent
         <td bgcolor="#f0f0f0" width="20%">
             <b>Labels:</b>
         </td>
-        <td id="labels-11418-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+        <td id="labels-18168-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
                             None
                     </td>
     </tr>
@@ -224,592 +229,175 @@ hr.fullcontent
                 <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
                                             <tr>
                             <td colspan="4" bgcolor="#f0f0f0">
-                                <b>Tests</b><br/>
-                            </td>
-                        </tr>
-                                                                <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-16">
-                     OK-16                 </a>
-            </td>
-            <td>
-                verify that the user can login with v...
-            </td>
-            <td>
-                Backlog
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-19">
-                     OK-19                 </a>
-            </td>
-            <td>
-                verify that the user can log in valid...
-            </td>
-            <td>
-                Backlog
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-21">
-                     OK-21                 </a>
-            </td>
-            <td>
-                verify that the user can not login wi...
-            </td>
-            <td>
-                Backlog
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-17">
-                     OK-17                 </a>
-            </td>
-            <td>
-                check if the client can login with in...
-            </td>
-            <td>
-                Backlog
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-18">
-                     OK-18                 </a>
-            </td>
-            <td>
-                Verify that the user cant login only ...
-            </td>
-            <td>
-                Backlog
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-20">
-                     OK-20                 </a>
-            </td>
-            <td>
-                Check that the user cannot login in t...
-            </td>
-            <td>
-                Backlog
-            </td>
-        </tr>
-                                        </table>
-            </td>
-        </tr>
-    
-
-
-
-</table>
-
-    <br/>
-
-    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
-    <tr>
-        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
-            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
-        </td>
-        <td>&nbsp;</td>
-    </tr>
-    </table>
-
-    <table cellpadding="0" cellspacing="0" border="0" width="100%">
-    <tr>
-        <td id="descriptionArea">
-            <p><b>Description</b></p>
-
-<p>The Sign in functionality allows users to sign in to the OpenSky page using a valid account.</p>
-
-<p><b>Preconditions</b></p>
-
-<ul>
-	<li>the client must have access to a PC.</li>
-	<li>the client must have Chrome browser installed on the PC.</li>
-	<li>the client must have a stable internet connection.</li>
-	<li>the client must have access OpenSky Website: Open Chrome browser and navigate to the OpenSky website</li>
-	<li>the client must be able to access the Login page for the OpenSky website</li>
-	<li>the Login page must have “email address” and “ password” fields and “Sign in” button.</li>
-	<li>the client must have a valid account created for OpenSky website</li>
-</ul>
-
-
-<p><b>Acceptance Criteria:</b></p>
-
-<p>As a user, I want to log in to the OpenSky website only by using a valid email and valid password and no other means.</p>
-
-<p>  </p>
-            <br/>
-        </td>
-    </tr>
-    </table>
-
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
-<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
-    <tr>
-        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
-                            <h3 class="formtitle">
-                        [OK-10]&nbsp;<a href="https://itfclasses.atlassian.net/browse/OK-10">Verify the &quot;facebook functionality&quot; button</a>
-            <span class="subText">
-               Created: 23/Sep/23                   &nbsp;Updated: 23/Sep/23
-
-                                            </span>
-            </h3>
-        </td>
-    </tr>
-    <tr>
-        <td width="20%"><b>Status:</b></td>
-        <td width="80%">Selected for Development</td>
-    </tr>
-    <tr>
-        <td width="20%"><b>Project:</b></td>
-        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10150">Karola_Opensky</a></td>
-    </tr>
-
-        <tr>
-            <td><b>Components:</b></td>
-            <td>
-                            None
-                </td>
-    </tr>
-    
-
-        <tr>
-            <td><b>Affects versions:</b></td>
-            <td>
-                            None
-                </td>
-    </tr>
-    
-
-        <tr>
-            <td><b>Fix versions:</b></td>
-            <td>
-                                        <a title="1"
-                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10150%20AND%20%22fixVersion%22%3D10068%20ORDER%20BY%20priority%20ASC"
-            >1</a>                        </td>
-    </tr>
-    
-    
-    </table>
-
-<br />
-<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
-    <tr>
-        <td bgcolor="#f0f0f0" valign="top" width="20%">
-            <b>Type:</b>
-        </td>
-        <td bgcolor="#ffffff" valign="top"  width="30%" >
-            Story
-        </td>
-
-                    <td bgcolor="#f0f0f0">
-                <b>Priority:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" nowrap>
-                Medium
-            </td>
-            </tr>
-    <tr>
-                        <td bgcolor="#f0f0f0" valign="top" width="20%">
-                <b>Reporter:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top"  width="30%" >
-                                        
-                
-        
-            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
-                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
-                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
-                    IT Factory
-                </a>
-
-                            </td>
-        
-                    <td bgcolor="#f0f0f0" width="20%">
-                <b>Assignee:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
-                                    Unassigned
-                            </td>
-            </tr>
-    	<tr>
-		<td bgcolor="#f0f0f0" width="20%">
-			<b>Resolution:</b>
-		</td>
-		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
-                    </td>
-                    <td bgcolor="#f0f0f0" width="20%">
-                <b>Votes:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                0
-            </td>
-        
-    </tr>
-    
-        <tr>
-        <td bgcolor="#f0f0f0" width="20%">
-            <b>Labels:</b>
-        </td>
-        <td id="labels-11414-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
-                            None
-                    </td>
-    </tr>
-    
-    	<tr>
-        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
-        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
-    </tr>
-    <tr>
-                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
-		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
-	</tr>
-    <tr>
-                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
-		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
-    </tr>
-    
-    </table>
-
-
-
-    <br />
-
-    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
-            
-
-                <tr>
-            <td bgcolor="#f0f0f0" width=20% valign=top>
-                <b>Attachments:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top">
-                                    <img src="https://itfclasses.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
-                    image-20230923-160851.png &nbsp;&nbsp;&nbsp;
-                            </td>
-        </tr>
-        
-            <tr>
-            <td bgcolor="#f0f0f0" width="20%" valign="top">
-                <b>Issue links:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" class="noPadding">
-                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
-                                            <tr>
-                            <td colspan="4" bgcolor="#f0f0f0">
-                                <b>Tests</b><br/>
-                            </td>
-                        </tr>
-                                                                <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-11">
-                     OK-11                 </a>
-            </td>
-            <td>
-                Positioning of the Facebook button
-            </td>
-            <td>
-                Selected for Development
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-12">
-                     OK-12                 </a>
-            </td>
-            <td>
-                Art and style of the facebook button
-            </td>
-            <td>
-                Selected for Development
-            </td>
-        </tr>
-            <tr>
-            <td>
-                is tested by
-            </td>
-            <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-13">
-                     OK-13                 </a>
-            </td>
-            <td>
-                Interactability with the facebook button
-            </td>
-            <td>
-                Selected for Development
-            </td>
-        </tr>
-                                        </table>
-            </td>
-        </tr>
-    
-
-
-
-</table>
-
-    <br/>
-
-    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
-    <tr>
-        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
-            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
-        </td>
-        <td>&nbsp;</td>
-    </tr>
-    </table>
-
-    <table cellpadding="0" cellspacing="0" border="0" width="100%">
-    <tr>
-        <td id="descriptionArea">
-            <p><b>Description</b></p>
-
-<p>The Facebook functionality button from the main page of the OpenSky website allows users to navigate to the OpenSky's Facebook page.</p>
-
-<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10211" height="31" width="36" style="border: 0px solid black" /></span></p>
-
-<p><b>Preconditions</b></p>
-
-<ul>
-	<li>the client must have access to a PC.</li>
-	<li>the client must have Chrome browser installed on the PC.</li>
-	<li>the client must have a stable internet connection.</li>
-	<li>the client must have access OpenSky Website: Open Chrome browser and navigate to the OpenSky website</li>
-</ul>
-
-
-<p><b>Acceptance Criteria:</b></p>
-
-<ol>
-	<li>Positioning of the button
-	<ol>
-		<li>The Facebook functionality button is displayed on the main page in the most bottom right corner under KEEP IN TOUCH column</li>
-	</ol>
-	</li>
-	<li>Art and style of the button
-	<ol>
-		<li>The Facebook functionality button is displayed as a small letter “f” in white on black background as shown below.</li>
-	</ol>
-	</li>
-	<li>Interactability with the button
-	<ol>
-		<li>On mouse hover , the mouse point is a hand symbol.</li>
-		<li>On mouse click , a new tab is opened in the browser</li>
-		<li>The new browser tabs URL is <a href="https://www.facebook.com/openskystoreUS/" class="external-link" rel="nofollow noreferrer">https://www.facebook.com/openskystoreUS/</a></li>
-	</ol>
-	</li>
-</ol>
-
-            <br/>
-        </td>
-    </tr>
-    </table>
-
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
-<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
-    <tr>
-        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
-                            <h3 class="formtitle">
-                        [OK-6]&nbsp;<a href="https://itfclasses.atlassian.net/browse/OK-6">As a user, I should be able to search specific products</a>
-            <span class="subText">
-               Created: 22/Sep/23                   &nbsp;Updated: 26/Sep/23
-
-                                            </span>
-            </h3>
-        </td>
-    </tr>
-    <tr>
-        <td width="20%"><b>Status:</b></td>
-        <td width="80%">In Progress</td>
-    </tr>
-    <tr>
-        <td width="20%"><b>Project:</b></td>
-        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10150">Karola_Opensky</a></td>
-    </tr>
-
-        <tr>
-            <td><b>Components:</b></td>
-            <td>
-                            None
-                </td>
-    </tr>
-    
-
-        <tr>
-            <td><b>Affects versions:</b></td>
-            <td>
-                            None
-                </td>
-    </tr>
-    
-
-        <tr>
-            <td><b>Fix versions:</b></td>
-            <td>
-                            None
-                </td>
-    </tr>
-    
-    
-    </table>
-
-<br />
-<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
-    <tr>
-        <td bgcolor="#f0f0f0" valign="top" width="20%">
-            <b>Type:</b>
-        </td>
-        <td bgcolor="#ffffff" valign="top"  width="30%" >
-            Story
-        </td>
-
-                    <td bgcolor="#f0f0f0">
-                <b>Priority:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" nowrap>
-                Medium
-            </td>
-            </tr>
-    <tr>
-                        <td bgcolor="#f0f0f0" valign="top" width="20%">
-                <b>Reporter:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top"  width="30%" >
-                                        
-                
-        
-            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
-                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
-                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
-                    IT Factory
-                </a>
-
-                            </td>
-        
-                    <td bgcolor="#f0f0f0" width="20%">
-                <b>Assignee:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
-                                    Unassigned
-                            </td>
-            </tr>
-    	<tr>
-		<td bgcolor="#f0f0f0" width="20%">
-			<b>Resolution:</b>
-		</td>
-		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
-                    </td>
-                    <td bgcolor="#f0f0f0" width="20%">
-                <b>Votes:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                0
-            </td>
-        
-    </tr>
-    
-        <tr>
-        <td bgcolor="#f0f0f0" width="20%">
-            <b>Labels:</b>
-        </td>
-        <td id="labels-11405-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
-                            None
-                    </td>
-    </tr>
-    
-    	<tr>
-        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
-        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
-    </tr>
-    <tr>
-                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
-		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
-	</tr>
-    <tr>
-                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
-		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
-    </tr>
-    
-    </table>
-
-
-
-    <br />
-
-    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
-            
-
-        
-            <tr>
-            <td bgcolor="#f0f0f0" width="20%" valign="top">
-                <b>Issue links:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" class="noPadding">
-                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
-                                            <tr>
-                            <td colspan="4" bgcolor="#f0f0f0">
-                                <b>Blocks</b><br/>
+                                <b>Relates</b><br/>
                             </td>
                         </tr>
                                     <tr>
             <td>
-                blocks
+                relates to
             </td>
             <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-4">
-                     OK-4                 </a>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-13">
+                     <strike>ST3NR-13</strike>                 </a>
             </td>
             <td>
-                the correctness of the search functions
+                Confirm that clicking &quot;Remove&quot; succes...
             </td>
             <td>
-                In Progress
+                Done
             </td>
         </tr>
-                                                                    </table>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-19">
+                     <strike>ST3NR-19</strike>                 </a>
+            </td>
+            <td>
+                Verify that the user can access their...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-20">
+                     <strike>ST3NR-20</strike>                 </a>
+            </td>
+            <td>
+                Verify that the Favorites list displa...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-22">
+                     <strike>ST3NR-22</strike>                 </a>
+            </td>
+            <td>
+                Verify that a Remove option from Favo...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-23">
+                     <strike>ST3NR-23</strike>                 </a>
+            </td>
+            <td>
+                Adding a selected product from Favori...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-24">
+                     <strike>ST3NR-24</strike>                 </a>
+            </td>
+            <td>
+                Confirm that clicking &quot;Remove&quot; succes...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-10">
+                     <strike>ST3NR-10</strike>                 </a>
+            </td>
+            <td>
+                Verify that the user can access their...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-11">
+                     <strike>ST3NR-11</strike>                 </a>
+            </td>
+            <td>
+                Verify that the Favorites list displa...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-12">
+                     <strike>ST3NR-12</strike>                 </a>
+            </td>
+            <td>
+                Verify that a Remove from Favorites i...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-14">
+                     <strike>ST3NR-14</strike>                 </a>
+            </td>
+            <td>
+                Adding a selected product from Favori...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-1">
+                     <strike>ST3NR-1</strike>                 </a>
+            </td>
+            <td>
+                Add Favorites list - This module woul...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        </table>
             </td>
         </tr>
     
@@ -832,74 +420,15 @@ hr.fullcontent
     <table cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td id="descriptionArea">
-            <p> As a user, I want to be able to search for auto parts on the Opensky, website www.opensky.com This feature will allow me to find specific products quickly and efficiently based on keywords.</p>
-
-<p><b>Requirements:</b></p>
-
-<p><b>1: Search Bar</b></p>
+            <p><b>Test conditions:</b></p>
 
 <ul>
-	<li>The website should feature a search bar that is prominently displayed and easily accessible from the homepage and other relevant pages.</li>
-</ul>
-
-
-<p><b>2: Keyword Search</b></p>
-
-<ul>
-	<li>Users should be able to enter keywords related to the opensky they are looking for in the search bar.</li>
-	<li>The search should return results that match the entered keywords in part names, descriptions, or other relevant fields.</li>
-</ul>
-
-
-<p><b>3: Search Results</b></p>
-
-<ul>
-	<li>The search results page should display a list of relevant products, including product names, descriptions, prices, availability status, and stock number.</li>
-</ul>
-
-
-<p><b>4: Result Sorting and Filtering</b></p>
-
-<ul>
-	<li>Users should have the option to sort and filter search results based on various criteria such as price, relevance, popularity, and brand.</li>
-	<li>Sorting and filtering options should be user-friendly and easy to use.</li>
-</ul>
-
-
-<p><b>Preconditions:</b></p>
-
-<p>The client should have a stable and reliable internet connection.</p>
-
-<p>The Opensky website <a href="http://www.opensky.com" class="external-link" rel="nofollow noreferrer">www.opensky.com</a> is accessible and operational.                                            <b>:</b></p>
-
-<p>The client should have a valid account on the Opensky site.</p>
-
-<p>The client should have a valid payment method available for use.</p>
-
-<p><b>Acceptance Criteria:</b></p>
-
-<p><b>1: Search Bar</b></p>
-
-<ul>
-	<li>The website should feature a clear and easily accessible search bar on relevant pages, including the homepage.</li>
-</ul>
-
-
-<p><b>2: Keyword Search</b></p>
-
-<ul>
-	<li>Users can enter keywords in the search bar, and the system returns relevant searched products results.</li>
-	<li>The search results should include part names, descriptions, prices, and availability status.</li>
-	<li>Users should receive a clear message if there are no search results for the entered keywords.</li>
-</ul>
-
-
-<p><b>5: Search Results</b></p>
-
-<ul>
-	<li>The search results page displays a list of relevant products.</li>
-	<li>Each result should include part names, descriptions, prices, and availability status.</li>
-	<li>The displayed results should be relevant to the search criteria and the selected item.</li>
+	<li>The user should be able to view their Favorites list.</li>
+	<li>The user should be able to remove a product from the Favorites list.</li>
+	<li>The user should be able to see details of each product in the Favorites list (e.g., product name, image, price).</li>
+	<li>The user should be able to see a confirmation message or visual cue indicating successful removal.</li>
+	<li>The removed product should no longer be displayed in the Favorites list.</li>
+	<li>The user should be able to add removed in cart a favorite products.</li>
 </ul>
 
             <br/>
@@ -911,22 +440,25 @@ hr.fullcontent
 <table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
-                            <h3 class="formtitle">
-                        [OK-1]&nbsp;<a href="https://itfclasses.atlassian.net/browse/OK-1">Sign up functionality</a>
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3NR-1">ST3NR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3NR-2]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3NR-2"> As a user, I want to be able to add products to my Favorites list so that I can easily find them later and consider purchasing them.</a>
             <span class="subText">
-               Created: 21/Sep/23                   &nbsp;Updated: 26/Sep/23
+               Created: 23/May/24                   &nbsp;Updated: 06/Jul/24
 
-                                            </span>
+                                                    &nbsp;Resolved: 06/Jul/24
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Selected for Development</td>
+        <td width="80%">Done</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
-        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10150">Karola_Opensky</a></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10433">Nadia_Robu_ST3</a></td>
     </tr>
 
         <tr>
@@ -948,12 +480,14 @@ hr.fullcontent
         <tr>
             <td><b>Fix versions:</b></td>
             <td>
-                                        <a title="1"
-                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10150%20AND%20%22fixVersion%22%3D10068%20ORDER%20BY%20priority%20ASC"
-            >1</a>                        </td>
+                                        <a title="NoSugerShop - add Favorites Module - add Favorites Module"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10433%20AND%20%22fixVersion%22%3D10481%20ORDER%20BY%20priority%20ASC"
+            >NoSugerShop - add Favorites Module</a>                        </td>
     </tr>
     
     
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3NR-1">Add Favorites list - This module would likely allow users to save products they find interesting or plan to purchase later for easy access.</a></td>
     </table>
 
 <br />
@@ -1001,7 +535,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -1016,7 +550,7 @@ hr.fullcontent
         <td bgcolor="#f0f0f0" width="20%">
             <b>Labels:</b>
         </td>
-        <td id="labels-11384-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+        <td id="labels-18082-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
                             None
                     </td>
     </tr>
@@ -1058,22 +592,172 @@ hr.fullcontent
                 <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
                                             <tr>
                             <td colspan="4" bgcolor="#f0f0f0">
-                                <b>Tests</b><br/>
+                                <b>Relates</b><br/>
                             </td>
                         </tr>
-                                                                <tr>
+                                    <tr>
             <td>
-                is tested by
+                relates to
             </td>
             <td>
-                <a href="https://itfclasses.atlassian.net/browse/OK-2">
-                     OK-2                 </a>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-16">
+                     <strike>ST3NR-16</strike>                 </a>
             </td>
             <td>
-                create a new account on the opensky.com
+                Test adding a product to the Favorite...
             </td>
             <td>
-                Selected for Development
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-17">
+                     <strike>ST3NR-17</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-18">
+                     <strike>ST3NR-18</strike>                 </a>
+            </td>
+            <td>
+                Test adding multiple products to the ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-30">
+                     <strike>ST3NR-30</strike>                 </a>
+            </td>
+            <td>
+                As a user, I can not add in favority ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-31">
+                     <strike>ST3NR-31</strike>                 </a>
+            </td>
+            <td>
+                As a user, I can not add in favority ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-3">
+                     <strike>ST3NR-3</strike>                 </a>
+            </td>
+            <td>
+                Verify that the &quot;Add to Favorites&quot; bu...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-6">
+                     <strike>ST3NR-6</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-7">
+                     <strike>ST3NR-7</strike>                 </a>
+            </td>
+            <td>
+                Test adding a product to the Favorite...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-8">
+                     <strike>ST3NR-8</strike>                 </a>
+            </td>
+            <td>
+                Test adding multiple products to the ...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-15">
+                     <strike>ST3NR-15</strike>                 </a>
+            </td>
+            <td>
+                Verify that the &quot;Add to Favorites&quot; bu...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3NR-1">
+                     <strike>ST3NR-1</strike>                 </a>
+            </td>
+            <td>
+                Add Favorites list - This module woul...
+            </td>
+            <td>
+                Done
             </td>
         </tr>
                                         </table>
@@ -1099,32 +783,23 @@ hr.fullcontent
     <table cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td id="descriptionArea">
-            <p><b>Description</b></p>
-
-<p>The Sign in functionality allows users to sign in to the OpenSky page using a valid account.</p>
-
-<p><b>Preconditions</b></p>
+            <p><b>Test conditions:</b></p>
 
 <ul>
-	<li>the client must have access to a PC.</li>
-	<li>the client must have Chrome browser installed on the PC.</li>
-	<li>the client must have a stable internet connection.</li>
-	<li>the client must have access OpenSky Website: Open Chrome browser and navigate to the OpenSky website</li>
-	<li>the client must be able to access the Login page for the OpenSky website</li>
-	<li>the Login page must have “email address” and “ password” fields and “Sign up” button.</li>
-	<li>the client must be able to create a new account</li>
+	<li>The user should be able to see an "Add to Favorites" button or icon on the product detail page.</li>
+	<li>Clicking the "Add to Favorites" button should add the product to the user's Favorites list.</li>
+	<li>The user should be able to see a confirmation message or visual cue indicating successful addition.</li>
+	<li>The added product should be displayed in the user's Favorites list.</li>
+	<li>The user should be able to add multiple products to the Favorites list.</li>
+	<li>Duplicate entries of the same product should not be added to the Favorites list.</li>
 </ul>
 
-
-<p><b>Acceptance Criteria:</b></p>
-
-<p>As a user, I want to Sign up in to the OpenSky website only by using a valid email and valid password and no other means.</p>
             <br/>
         </td>
     </tr>
     </table>
 
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Mon May 13 15:30:54 UTC 2024 by ITF Classes using Jira 1001.0.0-SNAPSHOT#100252-rev:a757dcea6f8770c6ac5af0f36934bcf6ab904d28.
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sat Jul 06 16:07:49 UTC 2024 by IT Factory using Jira 1001.0.0-SNAPSHOT#100258-rev:73ae1ffda2c50e536f767c2972653c1a57206810.
 
 </body>
 </html>
