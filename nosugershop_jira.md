@@ -15,9 +15,7 @@ The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/m
 
 **Here you can find the release that was created for this project**:
 
-
 (![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/067c1749-1b0f-4449-9c12-b90ae4e96c72)
-
 
 The test process was performed based on the standard test process as described below.
 
