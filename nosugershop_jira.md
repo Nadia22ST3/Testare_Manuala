@@ -91,9 +91,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 The monitoring and control stage is an essential component of any successful project. Through the effective implementation of this stage, deadlines and budgets were ensured and respected, problems were identified and fixed, good decisions were made in time, which led to increased satisfaction of interested parties and improved processes for future projects.
 
 Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
-
  
-**1.3 Test Analysis**
+### 1.3 Test Analysis**
 The testing process will be executed based on the application requirements.
 The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
 
@@ -104,7 +103,7 @@ The requirements analysis has been done in order to implement the early testing 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Jira_cases.doc)  
 
 
-1.5 Test Implementation
+### 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
 
