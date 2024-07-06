@@ -90,8 +90,6 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ### 1.2 Test Monitoring and Control
 The monitoring and control stage is an essential component of any successful project. Through the effective implementation of this stage, deadlines and budgets were ensured and respected, problems were identified and fixed, good decisions were made in time, which led to increased satisfaction of interested parties and improved processes for future projects.
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/c0a9966d-f70c-4f1a-ae55-626a9d3225fb)
-
 test metrics 
 
 ![test matrics](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/f77cc148-95e3-45c4-8331-12121033bfbb)
