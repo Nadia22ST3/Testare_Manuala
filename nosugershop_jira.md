@@ -38,13 +38,12 @@ The test plan that was created for this project can be found [here](https://gith
 
 #### 1.1.2 Entry criteria defined
 
-1. Testing environment is up and running.
-2. Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation.
-3. The roles must have been allocated.
-4. Potential project risks are detected and mitigated.
-5. Roles and responsibilities are allocated.
-6. The entry criteria and exit criteria must be defined.
-7. Test plan should be finalized before entering the next phase of testing
+1. Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation.
+2. The roles must have been allocated.
+3. Potential project risks are detected and mitigated.
+4. Roles and responsibilities are allocated.
+5. The entry criteria and exit criteria must be defined.
+6. Test plan should be finalized before entering the next phase of testing
    
 #### 1.1.3 Exit criteria defined
 
