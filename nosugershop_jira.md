@@ -61,7 +61,7 @@ The test plan that was created for this project can be found [here](https://gith
 
 In order to fulfill the testing objectives we are only going to focus on the ***Favorite*** Module which has been placed in the scope of testing and has been targeted for improvement over the next two months.
 
-From the point of view of the testing techniques we are going to use ***dynamic*** testing aspecialy use ***Black-box Testing*** with the following test design techniques:
+From the point of view of the testing techniques we are going to use ***dynamic*** testing especialy use ***Black-box Testing*** with the following test design techniques:
 
   ##### Use Case Testing
   
