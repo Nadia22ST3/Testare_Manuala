@@ -14,8 +14,7 @@ The stories attached [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/m
 
 **Here you can find the release that was created for this project**:
 
-![Release](https://github.com/user-attachments/assets/5bd3058e-5db4-43fd-8a28-8f6e5813def6)
-
+![releases](https://github.com/user-attachments/assets/2d3c905d-5dbb-4aea-81d4-c2b7d616251e)
 
 ## 2. Testing process
 The test process was performed based on the standard test process as described below.
@@ -93,7 +92,7 @@ The monitoring and control stage is an essential component of any successful pro
 
 test metrics 
 
-![test matrics final](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/be938512-8b5a-4c31-b4d6-d2db519d2cea)
+![daily test execution progress](https://github.com/user-attachments/assets/97f88299-7f64-4616-b968-5c94a91018ba)
 
  
 ### 1.3 Test Analysis
