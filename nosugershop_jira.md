@@ -132,7 +132,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 ### 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be viewed in extended format[here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Forward%20Traceability_5_8_2024.xlsx): 
+The traceability matrix was generated and can be viewed in extended format [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Forward%20Traceability_5_8_2024.xlsx): 
 
 ![Traceability matrix](https://github.com/user-attachments/assets/7c19411f-6933-4753-bef0-a7183e1e3978)
 
