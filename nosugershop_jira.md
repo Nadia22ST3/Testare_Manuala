@@ -134,7 +134,7 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 
 The traceability matrix was generated and can be found here: 
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/39f19e98-fd17-4c62-ac37-3dd13eb5fcb9)
+![Traceability matrix](https://github.com/user-attachments/assets/7c19411f-6933-4753-bef0-a7183e1e3978)
 
 
 Test execution chart was generated and can be found below.
