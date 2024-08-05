@@ -120,7 +120,10 @@ Test cases are executed on the created test Cycle summary:
 
 ![cycle summary](https://github.com/user-attachments/assets/e1af1a5e-01c6-44fd-8e49-bc75bd198dd5)
 
-Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/bug.doc): 
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/bug.doc):
+
+![bug](https://github.com/user-attachments/assets/c58676f5-8b14-4f42-bcab-01c73523ad9c)
+
 
 ### 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
