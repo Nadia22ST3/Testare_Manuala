@@ -99,7 +99,6 @@ test metrics
 The testing process will be executed based on the application requirements.
 The requirements analysis has been done in order to implement the early testing test principle and the results can be found here:
 
-![issues final](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/12d52159-8576-41c6-916f-b4b15ffec15d)
 ![test executions by test cycle](https://github.com/user-attachments/assets/b95b3b1d-2cd0-4918-8149-166a24fe41ee)
 The following 10 test conditions were found: 
 ![test ](https://github.com/user-attachments/assets/26c79c56-8856-4fe6-bdf4-abafdaa894eb)
