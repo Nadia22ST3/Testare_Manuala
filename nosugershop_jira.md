@@ -124,6 +124,10 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 ![bug](https://github.com/user-attachments/assets/c58676f5-8b14-4f42-bcab-01c73523ad9c)
 
+- ST3NR - 32 - PRIORITY HIGH, SEVERITY MEDIUM
+- ST3NR - 33 - PRIORITY HIGH, SEVERITY MEDIUM
+- ST3NR - 34 - PRIORITY HIGH, SEVERITY MEDIUM
+
 
 ### 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
