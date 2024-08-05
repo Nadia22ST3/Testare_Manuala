@@ -124,8 +124,8 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 ![bug](https://github.com/user-attachments/assets/c58676f5-8b14-4f42-bcab-01c73523ad9c)
 
 - ST3NR - 32 - PRIORITY HIGH, SEVERITY MEDIUM
-- ST3NR - 33 - PRIORITY HIGH, SEVERITY MEDIUM
-- ST3NR - 34 - PRIORITY HIGH, SEVERITY MEDIUM
+- ST3NR - 33 - PRIORITY HIGT, SEVERITY MEDIUM
+- ST3NR - 34 - PRIORITY HIGT, SEVERITY MEDIUM
   
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
@@ -139,10 +139,12 @@ The traceability matrix was generated and can be found here:
 
 Test execution chart was generated and can be found below.
 
-![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/1d1d8cde-681a-4797-a74c-11b3bc478cbe)
+![dashboards](https://github.com/user-attachments/assets/befabe02-0fd4-4929-a811-365d99563fc9)
 
 
 The final report shows that a number 0 tests have failed of a total of (10)
+
+A number of 4 total bugs were found, from which the priority is: HIGT
 
 # Conclusion of Favorites Module Testing
 
