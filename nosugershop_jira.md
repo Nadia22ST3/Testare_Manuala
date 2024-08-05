@@ -112,8 +112,7 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 The following elements are needed to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
-
+In this stage of testing the test data is created, the stability of the test environment is evaluated, the existence of access to the application is checked.
 ### 1.6. Test Execution
 
 Test cases are executed on the created test Cycle summary:
@@ -127,7 +126,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 - ST3NR - 32 - PRIORITY HIGH, SEVERITY MEDIUM
 - ST3NR - 33 - PRIORITY HIGH, SEVERITY MEDIUM
 - ST3NR - 34 - PRIORITY HIGH, SEVERITY MEDIUM
-
+Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 ### 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
