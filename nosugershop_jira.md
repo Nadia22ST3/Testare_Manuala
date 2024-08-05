@@ -126,6 +126,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 - ST3NR - 32 - PRIORITY HIGH, SEVERITY MEDIUM
 - ST3NR - 33 - PRIORITY HIGH, SEVERITY MEDIUM
 - ST3NR - 34 - PRIORITY HIGH, SEVERITY MEDIUM
+  
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 ### 1.7 Test Completion
