@@ -116,7 +116,10 @@ The following elements are needed to be ready before the test execution phase be
 
 ### 1.6. Test Execution
 
-Test cases are executed on the created test Cycle summary:![image](https://github.com/Nadia22ST3/Testare_Manuala/assets/172371046/31bea1eb-f77b-47ef-9ca4-8d18df4734aa)
+Test cases are executed on the created test Cycle summary:
+
+![cycle summary](https://github.com/user-attachments/assets/e1af1a5e-01c6-44fd-8e49-bc75bd198dd5)
+
 
 
 ### 1.7 Test Completion
