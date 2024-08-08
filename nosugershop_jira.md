@@ -101,7 +101,8 @@ The requirements analysis has been done in order to implement the early testing 
 
 ![test executions by test cycle](https://github.com/user-attachments/assets/b95b3b1d-2cd0-4918-8149-166a24fe41ee)
 The following 10 test conditions were found: 
-![test ](https://github.com/user-attachments/assets/26c79c56-8856-4fe6-bdf4-abafdaa894eb)
+![image](https://github.com/user-attachments/assets/c5c27935-aac6-48de-a634-b822297d3e58)
+
 
 ### 1.4 Test Design
 
