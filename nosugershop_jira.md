@@ -137,6 +137,7 @@ The traceability matrix was generated and can be viewed in extended format [here
 
 ![Traceability matrix](https://github.com/user-attachments/assets/7c19411f-6933-4753-bef0-a7183e1e3978)
 
+All test cases are associated with specific requirements.Test cases cover all possible scenarios, including edge and error cases. The test results indicate that the requirements have been met.
 
 Test execution chart was generated and can be found below.
 
