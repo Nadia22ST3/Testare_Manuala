@@ -145,7 +145,7 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 0 tests have failed of a total of (10)
 
-A number of 4 total bugs were found, from which the priority is: HIGH
+A number of 3 total bugs were found, from which the priority is: HIGH
 
 # Conclusion of Favorites Module Testing
 
