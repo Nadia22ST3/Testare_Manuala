@@ -106,7 +106,7 @@ The following 10 test conditions were found:
 
 ### 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Jira_cases%20final.doc)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/Nadia22ST3/Testare_Manuala/blob/main/Jira%20cases.docx)
 
 
 ### 1.5 Test Implementation
